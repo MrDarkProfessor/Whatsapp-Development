@@ -1,0 +1,11 @@
+This is the Whatsapp Application Code 
+
+Author : Ramprasath S 
+
+Profile page code 
+
+Chat screen code 
+
+Last seen code
+
+Attachement (image , Audio , Video) Code
