@@ -11,3 +11,7 @@ Last seen code
 Attachement (image , Audio , Video) Code
 
 Hiding the last seen
+
+Adding the Audio call feature
+
+Adding the Video call feature
